@@ -1,16 +1,7 @@
-# to_do_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![splash](https://github.com/kevinmali/To_Do_App/assets/132121875/014d8d89-6b38-4166-b8cc-6223d4c46205)
+![login](https://github.com/kevinmali/To_Do_App/assets/132121875/4deabbf1-2f98-46cf-91e0-16b8c629ba6d)
+![intro3](https://github.com/kevinmali/To_Do_App/assets/132121875/6928a85f-bffe-497c-a5fd-a628e077d85a)
+![intro2](https://github.com/kevinmali/To_Do_App/assets/132121875/8a7758c0-073e-4361-8dd9-40c0f8b6363a)
+![intro1](https://github.com/kevinmali/To_Do_App/assets/132121875/0e621a17-6f3e-4ddb-80eb-42a630d02397)
+![home_page](https://github.com/kevinmali/To_Do_App/assets/132121875/40a9c0ee-c21c-4f52-b562-4e91d1298e61)
+![getstarted](https://github.com/kevinmali/To_Do_App/assets/132121875/aeb9b91b-7c20-4d36-aac0-dcfd01dd69ec)
